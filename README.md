@@ -1,6 +1,6 @@
 # PrinceCarApp
 
-A new Flutter project.
+PrinceCarApp Hub is a Flutter-based app revolutionizing car service and repair bookings. Offering a user-friendly interface, it enables easy scheduling of appointments, location-based service provider discovery, and real-time updates. Secure online payments, user profiles, and a review system enhance the overall experience, making car maintenance hassle-free and efficient.
 
 ## Getting Started
 
